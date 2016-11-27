@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\PesanKopi\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a150dc029ad58e6828d05bc76f6cca4ddfc7d398">
+        <dex dex="E:\PesanKopi\app\build\intermediates\pre-dexed\debug\instant-run_373052953fc94a9bfd9a4d3d371d6078c03852e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project Android\PesanKopi\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="60941f445cdd54146b58dad9bbf335f8683d1e1e">
+        <dex dex="E:\Project Android\PesanKopi\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_f6be6a6daf3a0cc30b0331764fb0177b7a54767f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\PesanKopi\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="E:\PesanKopi\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.3.0_bc6ee03e855d7623beea1cf83d4855e9033453f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project Android\PesanKopi\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="676f47e24f7eebd19f55462be39a38709bc10b18">
+        <dex dex="E:\Project Android\PesanKopi\app\build\intermediates\pre-dexed\debug\instant-run_66615b67e6c30ccdeb30107d86db26a88c084a65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project Android\PesanKopi\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="E:\Project Android\PesanKopi\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.3.0_2864bf16626ee9f7559b2ec2d47d3a7baf86f85f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project Android\PesanKopi\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="E:\Project Android\PesanKopi\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_d7bab0989679161eed69396349a2612f7874efb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project Android\PesanKopi\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="E:\Project Android\PesanKopi\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_567c1a0521dd6f8e12076131f011a09a1914d079.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project Android\PesanKopi\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="E:\Project Android\PesanKopi\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.3.0_7edcbd1f81c4150f2aab7ccc7be91d306d16e39e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\PesanKopi\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a1d1d44817f373fe03d04c3872dcedc194344c89">
+        <dex dex="E:\PesanKopi\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_16f189b04b5ee599c00cd341ec4ca056cf583796.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\PesanKopi\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="E:\PesanKopi\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.3.0_17f38de553d61e19852f619604d36c19f5e8ee74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\PesanKopi\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="E:\PesanKopi\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.3.0_50cafab682737237269e2a7b3b12daae129b9746.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="E:\PesanKopi\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_a4ea006b60a31b1ef1f45205b3aa598eb0850127.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project Android\PesanKopi\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="E:\Project Android\PesanKopi\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.3.0_416f29b384602a32936e4530549f7e51a2083ba1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\PesanKopi\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="E:\PesanKopi\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_cc5d0288e87f6c31c90affd8a53b2bec1d6ca8a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\PesanKopi\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="E:\PesanKopi\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_de62da0fa67ac57b72f791998b02e286add60d98.jar" />
+    </item>
+
+</items>
